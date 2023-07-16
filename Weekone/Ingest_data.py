@@ -34,7 +34,7 @@ def main(params):
         t_end = time()
         print(f"Inserted all chunks, took {t_end - t_start} seconds")
     
-    print("Finished ingesting data into the PostgreSQL database")
+    print("Finished ingesting data into the Postgre database")
 
 
 if __name__ == '__main__':
@@ -45,7 +45,7 @@ if __name__ == '__main__':
     parser.add_argument('--host', required=True, help='host for PostgreSQL')
     parser.add_argument('--port', required=True, help='port for PostgreSQL')
     parser.add_argument('--db', required=True, help='database name for PostgreSQL')
-    parser.add_argument('--table_name', required=True, help='name of the table where we will write the results to')
+    parser.add_argument('--table_name', required=True, help='name of the table where i will write the results to')
     parser.add_argument('--url', required=True, help='URL of the Parquet file')
 
     args = parser.parse_args()
