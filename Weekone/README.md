@@ -28,8 +28,8 @@ To set up Postgres on Docker, follow these steps:
      -p 5432:5432 \
      postgres:13
 
-1. Accessing the Database with PGCLI
-To access the Postgres database using pgcli, follow these steps:
+Accessing the Database with PGCLI
+1. To access the Postgres database using pgcli, follow these steps:
 ```bash
    !pip install pgcli
 2. Launch pgcli with the following command:
