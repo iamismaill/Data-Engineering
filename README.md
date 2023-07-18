@@ -5,5 +5,7 @@
 - [x] Docker
 - [x] Data and SQL (done)
 - [x] Terraform
-[##### [Day One in Data Engineering ]([https://github.com/uanve/data-engineering-zoomcamp/tree/main/week_1_basics](https://github.com/iamismaill/Data-Engineering/tree/main/Weekone))
+- [ ] 
+
+https://medium.com/@mismaila_2/day-1-of-100-days-in-data-engineering-6a4818a9ee55 
  
