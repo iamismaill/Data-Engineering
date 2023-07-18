@@ -1,0 +1,4 @@
+Host instance-1 
+    HostName 35.188.133.159 
+    User ismail
+    IdentityFile ~/.ssh/gpc
