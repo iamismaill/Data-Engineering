@@ -1,0 +1,7 @@
+FROM python:3.7
+
+RUN pip install fastparquet psycopg2 pyarrow pandas sqlalchemy 
+WORKDIR /app
+COPY Ingest_taxi_dataa.py Ingest_taxi_dataa.py
+
+ENTRYPOINT [ "python","Ingest_taxi_dataa.py" ]
