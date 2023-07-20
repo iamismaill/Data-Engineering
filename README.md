@@ -6,6 +6,9 @@
 - [x] PostgreSQL
 - [x] Terraform
 
+Read my article in [Week One in Day One](https://medium.com/@mismaila_2/day-1-of-100-days-in-data-engineering-6a4818a9ee55)
+ and [Day Two](https://medium.com/@mismaila_2/day-2-of-100-days-in-data-engineering-1ea4cb71ae6c)
+
 ### [Week 2: Workflow Orchestration ]([https://github.com/iamismaill/Data-Engineering/tree/main/Weektwo))
 - [x] Data Lake 
 - [x] Workflow orchestration
